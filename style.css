@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+
+}
+.navbar img{
+    width: 150px;
+    height: 50px;
+}
+.btn-success{
+    border-radius: 33px;
+
+}
+container{
+    margin-bottom: 100px;
+    padding: 20px 40px;
+
+}
+.banner-top{
+   
+    background-color: #f0fFf0;
+}
+.img-banner img{
+    width: 550px;
+}
+.courses img{
+    width: 100px;
+    height: 100px;
+
+}
+
+.cat1, .cat2, .cat3, .cat4{
+    background-color: #f0fFf0;
+    padding: 40px 70px;
+    border-radius: 10px;
+    height: 250px;
+}
+.container{
+    margin-bottom: 100px;
+}

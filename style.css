@@ -58,3 +58,15 @@ h3{
 .card-footer img{
     width: 20px;
 }
+.no-gutters img{
+    width: 130px;
+}
+
+.other{
+    padding: 0px 200px;
+}
+.footer{
+    background-color: black;
+    width: 1000px;
+    height:21000;
+}

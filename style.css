@@ -20,6 +20,7 @@ container{
 .banner-top{
    
     background-color: #f0fFf0;
+    padding-top: 100px;
 }
 .img-banner img{
     width: 550px;
@@ -28,14 +29,32 @@ container{
     width: 100px;
     height: 100px;
 
+
 }
 
 .cat1, .cat2, .cat3, .cat4{
     background-color: #f0fFf0;
-    padding: 40px 70px;
+    padding: 30px 80px;
     border-radius: 10px;
     height: 250px;
 }
 .container{
     margin-bottom: 100px;
+    
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+h3{
+    text-align: center;
+}
+.card-footer img{
+    width: 20px;
 }

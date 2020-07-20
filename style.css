@@ -66,7 +66,10 @@ h3{
     padding: 0px 200px;
 }
 .footer{
-    background-color: black;
-    width: 1000px;
-    height:21000;
+    height: ;
+    padding: 50px;
 }
+.last-footer{
+    text-align: center;
+}
+    
